@@ -6,7 +6,7 @@ This project focuses on detecting money laundering activities in banking transac
 
 The system uses multiple ML and DL algorithms along with advanced data preprocessing techniques to improve prediction accuracy and risk profiling.
 
----
+
 
 ## 🎯 Objectives
 
@@ -16,7 +16,7 @@ The system uses multiple ML and DL algorithms along with advanced data preproces
 * Perform risk profiling based on user transaction behavior
 * Handle imbalanced datasets using SMOTE
 
----
+
 
 ## 🛠 Technologies Used
 
@@ -27,7 +27,7 @@ The system uses multiple ML and DL algorithms along with advanced data preproces
 * HTML, CSS, Bootstrap
 * Kaggle AML Dataset
 
----
+
 
 ## 📚 Algorithms Used
 
@@ -40,7 +40,7 @@ The following algorithms are used and compared in this project:
 * Logistic Regression
 * CNN2D
 
----
+
 
 ## ⚙️ Data Preprocessing Techniques
 
@@ -52,7 +52,7 @@ To improve model performance, the following preprocessing methods are applied:
 * SMOTE for imbalance data handling
 * Train-test splitting
 
----
+
 
 ## 📊 Performance Evaluation Metrics
 
@@ -65,7 +65,7 @@ Each algorithm is evaluated using:
 
 Among all algorithms, **Random Forest** and **Logistic Regression** achieved the highest accuracy.
 
----
+
 
 ## 🧩 Project Modules
 
@@ -76,7 +76,7 @@ Users can log in using:
 * Username: `admin`
 * Password: `admin`
 
----
+
 
 ### 2. Load & Process Dataset
 
@@ -94,7 +94,6 @@ Dataset split:
 * 80% Training Data
 * 20% Testing Data
 
----
 
 ### 3. Train Hybrid Algorithms
 
@@ -111,7 +110,7 @@ This module:
 * Generates confusion matrix graphs
 * Compares algorithms using graphical analysis
 
----
+
 
 ### 4. Predict Money Laundering
 
@@ -130,7 +129,7 @@ The system predicts:
   * Normal
   * Suspicious
 
----
+
 
 # 📂 Dataset Information
 
@@ -144,7 +143,7 @@ The dataset contains:
 * User behavior patterns
 * Fraud labels
 
----
+
 
 # 🚀 Installation Steps
 
@@ -216,7 +215,7 @@ http://127.0.0.1:8000/index.html
 * Predict suspicious or normal transaction
 * Display risk profiling ratio
 
----
+
 
 # 📈 Results
 
@@ -225,7 +224,7 @@ http://127.0.0.1:8000/index.html
 * SMOTE improved class balancing and prediction quality
 * The system successfully predicts suspicious transactions based on behavior analysis
 
----
+
 
 # 🔮 Future Enhancements
 
@@ -235,13 +234,13 @@ http://127.0.0.1:8000/index.html
 * Explainable AI for fraud analysis
 * Mobile application support
 
----
+
 
 # 👩‍💻 Author
 
 Developed as an academic final year project for detecting money laundering activities using Hybrid Machine Learning and Deep Learning techniques.
 
----
+
 
 # 📄 License
 
